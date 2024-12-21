@@ -33,7 +33,6 @@ Female: 10
 
 Age Range: 17-33
 
-
 ## Notable Statistics:
 ### Gesture Class Distribution:
 * swipe_down: 450
@@ -48,10 +47,11 @@ Age Range: 17-33
 * swipe_left: 449
 
 ### Mean and Standard Deviation of Duration
-
+Sampling rate = 100 Hz
+The following provides the mean sample time (with standard deviation) taken for each gesture type:
 
 ### Gesture Consistency Scores (with Spearman)
-All gesture samples for each gesture type were aligned and compared to provide the following scores:
+All samples for each gesture type were aligned and compared to provide the following scores:
 
 #### Swipe_down
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
