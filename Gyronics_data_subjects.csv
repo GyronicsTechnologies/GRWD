@@ -24,6 +24,7 @@ subject_21,NA,NA,NA,NAN
 subject_22,M,RH,Slim,18
 subject_23,F,RH,Slim,20
 subject_24,M,RH,Medium,22
+subject_25,M,RH,Slim,20
 subject_26,M,RH,Slim,18
 subject_27,M,RH,Slim,18
 subject_28,F,RH,Slim,19
@@ -46,5 +47,5 @@ subject_44,F,RH,Slim,18
 subject_45,M,RH,Medium,20
 subject_46,M,RH,Slim,30
 subject_47,F,RH,Slim,19
-subject_48,M,RH,Medium,NAN
+subject_48,M,RH,Medium,18
 subject_49,M,RH,Buff,21
