@@ -49,7 +49,7 @@ Age Range: 17-33
 | swipe_left    | 449   |
 
 
-### Mean and Standard Deviation of Duration
+### Mean and Standard Deviation of Duration (Made a mistake will fix soon)
 Sampling rate = 100 Hz
 The following provides the mean sample time (with standard deviation) taken for each gesture type:
 | Gesture       | Mean           | Standard Deviation |
