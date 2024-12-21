@@ -1,4 +1,4 @@
 Gender: Male
 Build: Medium
-Age: 
+Age: 18
 Hand: RH
