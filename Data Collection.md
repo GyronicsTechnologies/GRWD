@@ -48,10 +48,11 @@ Age Range: 17-33
 | swipe_right   | 449   |
 | swipe_left    | 449   |
 
-
 ### Mean and Standard Deviation of Duration
 Sampling rate = 100 Hz
+
 The following provides the mean sample time (with standard deviation) taken for each gesture type:
+
 | Gesture        | Mean         | Standard Deviation |
 |----------------|--------------|---------------------|
 | swipe_down     | 500.55       | 306.86             |
@@ -66,6 +67,7 @@ The following provides the mean sample time (with standard deviation) taken for 
 | swipe_left     | 486.01       | 174.92             |
 
 ### Gesture Consistency Scores (with Spearman)
+
 All samples for each gesture type were aligned and compared to provide the following scores:
 
 #### Swipe_down
@@ -117,4 +119,9 @@ All samples for each gesture type were aligned and compared to provide the follo
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
 | Scores 	| 0.79 	| 0.78 	| 0.58 	| 0.64 	| 0.55 	| 0.89 	| 0.77 	| 0.81  	|
+
+### Visualizing Time-Series Data Structure Using Haar Wavelet Transform and UMAP in 2D
+
+
+### Exploring Time-Series Data Structure Using Haar Wavelet Transform, K-Means Clustering, and UMAP in 2D
 
