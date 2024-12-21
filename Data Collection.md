@@ -23,15 +23,15 @@ If this "manner" would misrepresent the gesture the recorded would ask the parti
 
 Data was collected from 50 individuals of which...
 
-Right Handed:
+Right Handed: 44
 
-Left Handed:
+Left Handed: 4
 
-Male:
+Male: 38
 
-Female:
+Female: 10
 
-Age Range:
+Age Range: 17-33
 
 
 ## Notable Statistics:
