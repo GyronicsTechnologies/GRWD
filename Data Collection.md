@@ -35,16 +35,19 @@ Age Range: 17-33
 
 ## Notable Statistics:
 ### Gesture Class Distribution:
-* swipe_down: 450
-* circle_clk: 450
-* p_shape: 448
-* swipe_up: 449
-* v_shape: 450
-* s_shape: 451
-* twist_right: 452
-* circle_cclk: 449
-* swipe_right: 449
-* swipe_left: 449
+| Gesture        | Value |
+|----------------|-------|
+| swipe_down     | 250   |
+| circle_clk     | 250   |
+| p_shape        | 250   |
+| swipe_up       | 250   |
+| v_shape        | 250   |
+| s_shape        | 250   |
+| twist_right    | 250   |
+| circle_cclk    | 250   |
+| swipe_right    | 250   |
+| swipe_left     | 250   |
+
 
 ### Mean and Standard Deviation of Duration
 Sampling rate = 100 Hz
