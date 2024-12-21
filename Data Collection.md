@@ -35,23 +35,35 @@ Age Range: 17-33
 
 ## Notable Statistics:
 ### Gesture Class Distribution:
-| Gesture        | Value |
-|----------------|-------|
-| swipe_down     | 250   |
-| circle_clk     | 250   |
-| p_shape        | 250   |
-| swipe_up       | 250   |
-| v_shape        | 250   |
-| s_shape        | 250   |
-| twist_right    | 250   |
-| circle_cclk    | 250   |
-| swipe_right    | 250   |
-| swipe_left     | 250   |
+| Gesture       | Value |
+|---------------|-------|
+| swipe_down    | 450   |
+| circle_clk    | 450   |
+| p_shape       | 448   |
+| swipe_up      | 449   |
+| v_shape       | 450   |
+| s_shape       | 451   |
+| twist_right   | 452   |
+| circle_cclk   | 449   |
+| swipe_right   | 449   |
+| swipe_left    | 449   |
 
 
 ### Mean and Standard Deviation of Duration
 Sampling rate = 100 Hz
 The following provides the mean sample time (with standard deviation) taken for each gesture type:
+| Gesture       | Mean           | Standard Deviation |
+|---------------|----------------|--------------------|
+| swipe_down    | 496.15         | 310.59             |
+| circle_clk    | 553.91         | 231.89             |
+| p_shape       | 553.08         | 187.69             |
+| swipe_up      | 503.88         | 194.30             |
+| v_shape       | 526.47         | 269.36             |
+| s_shape       | 531.10         | 188.07             |
+| twist_right   | 460.09         | 171.33             |
+| circle_cclk   | 530.45         | 199.69             |
+| swipe_right   | 472.35         | 158.79             |
+| swipe_left    | 480.91         | 181.87             |
 
 ### Gesture Consistency Scores (with Spearman)
 All samples for each gesture type were aligned and compared to provide the following scores:
