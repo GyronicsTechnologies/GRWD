@@ -1,0 +1,5 @@
+Gender: Male
+Build: Slim
+Age: 33
+Hand: RH
+Name: Bilal Khalifa

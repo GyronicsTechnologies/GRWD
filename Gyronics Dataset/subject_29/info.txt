@@ -1,0 +1,4 @@
+Gender: Male
+Build: Slim
+Age: 21
+Hand: RH

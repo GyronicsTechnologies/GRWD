@@ -1,0 +1,4 @@
+Gender: Male
+Build: Medium
+Age: 20
+Hand: LH

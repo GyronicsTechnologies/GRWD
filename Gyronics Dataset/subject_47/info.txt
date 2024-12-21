@@ -1,0 +1,4 @@
+Gender: Female
+Build: Slim
+Age: 19
+Hand: RH

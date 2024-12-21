@@ -1,0 +1,4 @@
+Gender: Male
+Build: Buff
+Age: 20
+Hand: LH
