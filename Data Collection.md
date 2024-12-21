@@ -47,9 +47,12 @@ Age Range: 17-33
 * swipe_right: 449
 * swipe_left: 449
 
-### Mean and Standard Deviation of Duration 
+### Mean and Standard Deviation of Duration
+
 
 ### Gesture Consistency Scores (with Spearman)
+All gesture samples for each gesture type were aligned and compared to provide the following scores:
+
 #### Swipe_down
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
