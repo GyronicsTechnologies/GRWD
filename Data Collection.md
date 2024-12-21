@@ -1,10 +1,10 @@
-This file explains the methodology of the data collection involved in the Gyronics Dataset. Additionally some basic statistics are also provided. 
+This file explains the methodology of the data collection involved in the Gyronics Dataset. Additionally some basic statistics are also provided.
 
 ## Methodology:
 
-Participants were first informed upon the goals of the research their data was being collected for. 
+Participants were first informed upon the goals of the research their data was being collected for.
 
-Next the data collecting procedure was explained to them. 
+Next the data collecting procedure was explained to them.
     - They would complete each gesture 10 times.
     - The recorder would explicitly tell the participant when to begin each gesture.
     - If for any reason any gesture required re-collection participants would be expected to repeat the gesture after the recorded told them.
@@ -14,7 +14,7 @@ The participants then fastened the device to their forearm of choice. Care was t
 
 The age, build, gender, and hand of choice of the participant was then recorded.
 
-The participants would then perform each gesture a total of 10 times. 
+The participants would then perform each gesture a total of 10 times.
 
 Prior to data collection, the gesture would be explained to the participant along with a visual demonstration of the gesture being made. Participants were explicitly guided to complete the gesture in a manner most comfortable to them.
 
@@ -35,3 +35,67 @@ Age Range: 17-33
 
 
 ## Notable Statistics:
+### Gesture Class Distribution:
+* swipe_down: 450
+* circle_clk: 450
+* p_shape: 448
+* swipe_up: 449
+* v_shape: 450
+* s_shape: 451
+* twist_right: 452
+* circle_cclk: 449
+* swipe_right: 449
+* swipe_left: 449
+
+### Mean and Standard Deviation of Duration 
+
+### Gesture Consistency Scores (with Spearman)
+#### Swipe_down
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.55 	| 0.90 	| 0.63 	| 0.85 	| 0.66 	| 0.76 	| 0.91 	| 0.68  	|
+
+#### Circle_clk
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.63 	| 0.80 	| 0.66 	| 0.77 	| 0.66 	| 0.78 	| 0.78 	| 0.74  	|
+
+#### P_shape
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.69 	| 0.86 	| 0.71 	| 0.83 	| 0.75 	| 0.80 	| 0.89 	| 0.82  	|
+
+#### Swipe_up
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.80 	| 0.88 	| 0.87 	| 0.88 	| 0.77 	| 0.74 	| 0.93 	| 0.86 	    |
+
+#### V_shape
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.78 	| 0.81 	| 0.64 	| 0.75 	| 0.74 	| 0.73 	| 0.80 	| 0.77  	|
+
+#### S_shape
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.72 	| 0.83 	| 0.64 	| 0.75 	| 0.67 	| 0.66 	| 0.85 	| 0.75  	|
+
+#### Twist_right
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.85 	| 0.80 	| 0.92 	| 0.71 	| 0.81 	| 0.70 	| 0.68 	| 0.87  	|
+
+#### Circle_cclk
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.74	| 0.83 	| 0.71 	| 0.81 	| 0.75 	| 0.80 	| 0.79 	| 0.76  	|
+
+#### Swipe_right
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.78 	| 0.73 	| 0.66 	| 0.74 	| 0.70 	| 0.89 	| 0.81 	| 0.80  	|
+
+#### Swipe_left
+| Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
+|--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
+| Scores 	| 0.78 	| 0.78 	| 0.57 	| 0.62 	| 0.58 	| 0.89 	| 0.80 	| 0.81  	|
