@@ -49,21 +49,21 @@ Age Range: 17-33
 | swipe_left    | 449   |
 
 
-### Mean and Standard Deviation of Duration (Made a mistake will fix soon)
+### Mean and Standard Deviation of Duration
 Sampling rate = 100 Hz
 The following provides the mean sample time (with standard deviation) taken for each gesture type:
-| Gesture       | Mean           | Standard Deviation |
-|---------------|----------------|--------------------|
-| swipe_down    | 496.15         | 310.59             |
-| circle_clk    | 553.91         | 231.89             |
-| p_shape       | 553.08         | 187.69             |
-| swipe_up      | 503.88         | 194.30             |
-| v_shape       | 526.47         | 269.36             |
-| s_shape       | 531.10         | 188.07             |
-| twist_right   | 460.09         | 171.33             |
-| circle_cclk   | 530.45         | 199.69             |
-| swipe_right   | 472.35         | 158.79             |
-| swipe_left    | 480.91         | 181.87             |
+| Gesture        | Mean         | Standard Deviation |
+|----------------|--------------|---------------------|
+| swipe_down     | 500.55       | 306.86             |
+| circle_clk     | 559.21       | 224.43             |
+| p_shape        | 558.08       | 178.78             |
+| swipe_up       | 510.26       | 186.19             |
+| v_shape        | 530.73       | 264.24             |
+| s_shape        | 536.52       | 179.37             |
+| twist_right    | 465.02       | 164.36             |
+| circle_cclk    | 536.51       | 190.95             |
+| swipe_right    | 476.98       | 151.07             |
+| swipe_left     | 486.01       | 174.92             |
 
 ### Gesture Consistency Scores (with Spearman)
 All samples for each gesture type were aligned and compared to provide the following scores:
@@ -71,49 +71,50 @@ All samples for each gesture type were aligned and compared to provide the follo
 #### Swipe_down
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.55 	| 0.90 	| 0.63 	| 0.85 	| 0.66 	| 0.76 	| 0.91 	| 0.68  	|
+| Scores 	| 0.56 	| 0.91 	| 0.64 	| 0.85 	| 0.68 	| 0.77 	| 0.91 	| 0.67  	|
 
 #### Circle_clk
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.63 	| 0.80 	| 0.66 	| 0.77 	| 0.66 	| 0.78 	| 0.78 	| 0.74  	|
+| Scores 	| 0.68 	| 0.82 	| 0.67 	| 0.79 	| 0.70 	| 0.80 	| 0.80 	| 0.75  	|
 
 #### P_shape
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.69 	| 0.86 	| 0.71 	| 0.83 	| 0.75 	| 0.80 	| 0.89 	| 0.82  	|
+| Scores 	| 0.70 	| 0.86 	| 0.72 	| 0.84 	| 0.78 	| 0.81 	| 0.89 	| 0.83  	|
 
 #### Swipe_up
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.80 	| 0.88 	| 0.87 	| 0.88 	| 0.77 	| 0.74 	| 0.93 	| 0.86 	    |
+| Scores 	| 0.81 	| 0.89 	| 0.87 	| 0.88 	| 0.77 	| 0.74 	| 0.93 	| 0.85 	    |
 
 #### V_shape
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.78 	| 0.81 	| 0.64 	| 0.75 	| 0.74 	| 0.73 	| 0.80 	| 0.77  	|
+| Scores 	| 0.78 	| 0.83 	| 0.67 	| 0.78 	| 0.74 	| 0.74 	| 0.82 	| 0.80  	|
 
 #### S_shape
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.72 	| 0.83 	| 0.64 	| 0.75 	| 0.67 	| 0.66 	| 0.85 	| 0.75  	|
+| Scores 	| 0.72 	| 0.84 	| 0.65 	| 0.75 	| 0.67 	| 0.68 	| 0.86 	| 0.75  	|
 
 #### Twist_right
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.85 	| 0.80 	| 0.92 	| 0.71 	| 0.81 	| 0.70 	| 0.68 	| 0.87  	|
+| Scores 	| 0.87 	| 0.81 	| 0.93 	| 0.73 	| 0.83 	| 0.71 	| 0.69 	| 0.89  	|
 
 #### Circle_cclk
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.74	| 0.83 	| 0.71 	| 0.81 	| 0.75 	| 0.80 	| 0.79 	| 0.76  	|
+| Scores 	| 0.74	| 0.84 	| 0.71 	| 0.81 	| 0.75 	| 0.81 	| 0.80 	| 0.77  	|
 
 #### Swipe_right
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.78 	| 0.73 	| 0.66 	| 0.74 	| 0.70 	| 0.89 	| 0.81 	| 0.80  	|
+| Scores 	| 0.80 	| 0.73 	| 0.66 	| 0.74 	| 0.69 	| 0.90 	| 0.81 	| 0.81  	|
 
 #### Swipe_left
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
-| Scores 	| 0.78 	| 0.78 	| 0.57 	| 0.62 	| 0.58 	| 0.89 	| 0.80 	| 0.81  	|
+| Scores 	| 0.79 	| 0.78 	| 0.58 	| 0.64 	| 0.55 	| 0.89 	| 0.77 	| 0.81  	|
+
