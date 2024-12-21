@@ -120,8 +120,4 @@ All samples for each gesture type were aligned and compared to provide the follo
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
 | Scores 	| 0.79 	| 0.78 	| 0.58 	| 0.64 	| 0.55 	| 0.89 	| 0.77 	| 0.81  	|
 
-### Visualizing Time-Series Data Structure Using Haar Wavelet Transform and UMAP in 2D
-
-
-### Exploring Time-Series Data Structure Using Haar Wavelet Transform, K-Means Clustering, and UMAP in 2D
-
+### Comparing UMAP Visualizations of Data using Wavelet Features: Ground-Truth Labels vs. K-Means Clustering
