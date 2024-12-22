@@ -23,13 +23,13 @@ If this "manner" would misrepresent the gesture the recorded would ask the parti
 
 Data was collected from 50 individuals of which...
 
-Right Handed: 44
+Right Handed: 46
 
 Left Handed: 4
 
-Male: 38
+Male: 39
 
-Female: 10
+Female: 11
 
 Age Range: 17-33
 
@@ -119,5 +119,3 @@ All samples for each gesture type were aligned and compared to provide the follo
 | Axis   	| Ax   	| Ay   	| Az   	| Gx   	| Gy   	| Gz   	| Roll 	| Pitch 	|
 |--------	|------	|------	|------	|------	|------	|------	|------	|-------	|
 | Scores 	| 0.79 	| 0.78 	| 0.58 	| 0.64 	| 0.55 	| 0.89 	| 0.77 	| 0.81  	|
-
-### Comparing UMAP Visualizations of Data using Wavelet Features: Ground-Truth Labels vs. K-Means Clustering

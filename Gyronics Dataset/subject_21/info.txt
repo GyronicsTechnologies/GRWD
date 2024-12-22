@@ -1,1 +1,4 @@
-/// DATA WAS LOST ///
+Gender: Female
+Build: Medium
+Age: 18
+Hand: RH
